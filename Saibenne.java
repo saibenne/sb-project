@@ -1,5 +1,5 @@
 class Saibenne{
     public static void main(String[] args) {
-        System.out.println("Java file");
+        System.out.println("feature2 Java file");
     }
 }
